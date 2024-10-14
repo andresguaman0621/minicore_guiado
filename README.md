@@ -19,7 +19,6 @@ This application solves the problem of task overload by allowing users to catego
 ## Installation
 To install the Task Manager application, follow these steps:
 
-## Installation
 To install the Task Manager application, follow these steps: 
 1. Clone the repository: ```sh git clone https://github.com/andresguaman0621/minicore_guiado.git ``` 
 2. Navigate into the project directory: ```sh cd minicore_guiado ``` 
@@ -29,22 +28,22 @@ To install the Task Manager application, follow these steps:
 6. Run database migrations: ```sh python manage.py migrate ``` 
 7. Start the development server: ```sh python manage.py runserver ```
 
-##Usage
+Usage
 Once the server is running, navigate to http://127.0.0.1:8000 in your web browser. You can create an account or log in to access your task management dashboard.
-##Example Usage
+Example Usage
 Creating a Task: Click on "Add Task" and fill in the details.
 Updating a Task: Click on the task you wish to update, make changes, and save.
 Deleting a Task: Click on the delete icon next to the task.
-##Features
-Create, update, and delete tasksm users, projects
-Fitering tasks by date
-Deadline setting when creating tasks
-##Contributing
+Features
+Create, update, and delete tasks, users, projects
+Categorization of tasks (e.g., work, personal)
+Filtering tasks by date
+
+Contributing
 Contributions are welcome! If you would like to contribute to this project, please fork the repository and submit a pull request with your changes. Follow these guidelines for contributions:
 Ensure your code follows our coding standards.
 Write tests for new features.
 Update documentation as needed.
-##License
+License
 This project is licensed under the MIT License - see the LICENSE file for details. Feel free to reach out if you have any questions or need further assistance!
-
 
